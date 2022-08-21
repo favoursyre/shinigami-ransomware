@@ -1,0 +1,4 @@
+pycryptodome
+win32gui
+opencv-python
+cryptography
